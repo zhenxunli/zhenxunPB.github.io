@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "互联网铁路局枕浔机务段"
+title                    : "ZHENXUN's Personal Blog"
 title_separator          : "-"
-name                     : &name "枕浔lspillow"
-description              : &description "不定时托更/高产的航空铁路区up主"
+name                     : &name "lspillow"
+description              : &description ""
 url                      : https://zhenxunli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "枕浔"
+  name             : "zhenxun"
   pronouns         : #"" # example: "she/her"  
-  bio              : "航空铁路区up主"
-  location         : "苏州"
-  employer         : "保密"
+  bio              : "railway&plane video maker"
+  location         : "suzhou"
+  employer         : "secret"
   uri              : # URL
-  email            : "我的邮箱：zhenxunli@qq.com" 
+  email            : "Email：zhenxunli@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
