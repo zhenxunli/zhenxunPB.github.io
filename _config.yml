@@ -13,7 +13,7 @@ title                    : "互联网铁路局枕浔机务段"
 title_separator          : "-"
 name                     : &name "枕浔lspillow"
 description              : &description "不定时托更/高产的航空铁路区up主"
-url                      : https://zhenxunli.github.io/# the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://zhenxunli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "枕浔"
-  pronouns         : "he" # example: "she/her"  
+  pronouns         : #"" # example: "she/her"  
   bio              : "航空铁路区up主"
   location         : "苏州"
   employer         : "保密"
