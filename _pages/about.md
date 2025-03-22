@@ -1,13 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "让我们开始罢，等不及力"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-你是一个一个介绍啊啊啊啊啊
-由于gitee崩了，所以紧急加开的网站
-只能从0开始力（悲）
-我的哔哩哔哩空间：https://space.bilibili.com/1986660022
+> Written with [StackEdit中文版](https://stackedit.cn/).
+
+# 欢迎！
+**这里是枕浔lspillow的个人博客**
+
+
+## 在这里，您可以看到
+拍车拍机动态
+更新内容前瞻
+以及一些并没有在B站中上传的独家内容
+商务合作，团队加盟........
+## 在这里，您可以
+获取视频的更新内容
+加入讨论群
+阅读我的拍车拍机以及摄影日常
